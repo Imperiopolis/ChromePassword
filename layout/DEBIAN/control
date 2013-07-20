@@ -1,0 +1,9 @@
+Package: com.trappdesign.chromepassword
+Priority: optional
+Section: System
+Architecture: iphoneos-arm
+Version: 0.0.1
+Description: 1Password for the Chrome browser
+Name: ChromePassword
+Depends: firmware (>= 5), mobilesubstrate, preferenceloader (>= 2)
+Author: Nathan Trapp <nathan@trappdesign.net>

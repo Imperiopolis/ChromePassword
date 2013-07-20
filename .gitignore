@@ -1,0 +1,5 @@
+*.deb
+*.swp
+.debmake
+.theos
+.DS_Store
